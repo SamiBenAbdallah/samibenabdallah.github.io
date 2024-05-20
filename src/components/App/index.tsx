@@ -3,7 +3,9 @@ import './styles.scss';
 
 function App() {
   return (
-    <Header />
+    <div className="container">
+      <Header />
+    </div>
   );
 }
 
