@@ -1,5 +1,6 @@
-@use 'reset';
+@use '_reset.css';
 @use 'vars';
+@use 'mixins';
 
 * {
   scroll-behavior: smooth;
